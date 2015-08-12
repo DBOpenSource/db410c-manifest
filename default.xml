@@ -10,4 +10,5 @@
 <project path="meta-qualcomm" name="ndechesne/meta-qualcomm"/>
 <project path="meta-smartphone" name="shr-distribution/meta-smartphone"/>
 <project path="meta-96boards" name="96boards/meta-96boards"/>
+<project path="meta-db410c" name="DBOpenSOurce/meta-db410c"/>
 </manifest>
