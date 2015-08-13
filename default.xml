@@ -3,15 +3,13 @@
 <remote name="oe" fetch="git://git.openembedded.org"/>
 <remote name="github" fetch="https://github.com"/>
 <remote name="codeaurora" fetch="git://codeaurora.org"/>
-<project path="meta-db410c" name="DBOpenSOurce/meta-db410c"/>
 <default remote="github" revision="master" sync-j="2"/>
 <project path="openembedded-core" name="openembedded/openembedded-core"/>
 <project path="meta-openembedded" name="openembedded/meta-openembedded"/>
 <project path="openembedded-core/bitbake" name="openembedded/bitbake"/>
 <project path="meta-linaro" name="openembedded/meta-linaro" remote="linaro"/>
 <project path="meta-qualcomm" name="ndechesne/meta-qualcomm"/>
-<project path="meta-smartphone" name="shr-distribution/meta-smartphone"/>
 <project path="meta-96boards" name="96boards/meta-96boards"/>
-<project path="meta-db410c" name="DBOpenSOurce/meta-db410c"/>
-<project path="skales" name="quic/kernel/skales"/>
+<project path="meta-db410c" name="DBOpenSource/meta-db410c"/>
+<project path="skales" name="quic/kernel/skales" remote="codeaurora"/>
 </manifest>
