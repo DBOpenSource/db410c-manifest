@@ -2,6 +2,8 @@
 <remote name="linaro" fetch="http://git.linaro.org"/>
 <remote name="oe" fetch="git://git.openembedded.org"/>
 <remote name="github" fetch="https://github.com"/>
+<remote name="codeaurora" fetch="git://codeaurora.org"/>
+<project path="meta-db410c" name="DBOpenSOurce/meta-db410c"/>
 <default remote="github" revision="master" sync-j="2"/>
 <project path="openembedded-core" name="openembedded/openembedded-core"/>
 <project path="meta-openembedded" name="openembedded/meta-openembedded"/>
@@ -11,4 +13,5 @@
 <project path="meta-smartphone" name="shr-distribution/meta-smartphone"/>
 <project path="meta-96boards" name="96boards/meta-96boards"/>
 <project path="meta-db410c" name="DBOpenSOurce/meta-db410c"/>
+<project path="skales" name="quic/kernel/skales"/>
 </manifest>
