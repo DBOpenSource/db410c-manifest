@@ -12,5 +12,5 @@
 <project path="meta-96boards" name="96boards/meta-96boards"/>
 <project path="meta-db410c" name="DBOpenSource/meta-db410c"/>
 <project path="skales" name="quic/kernel/skales" remote="codeaurora"/>
-<project path="DBOpenSource/db410c_makefiles" name="db410c_makefiles"/>
+<project path="db410c_makefiles" name="DBOpenSource/db410c_makefiles"/>
 </manifest>
